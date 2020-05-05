@@ -58,9 +58,11 @@ $ yarn start
 $ yarn test
 ```
 
-Prerequisites - run the backend available here - [Back-end](https://github.com/thiagogualberto/nodejs-concepts). [Android Emulator](https://developer.android.com/) was used for testing. It is a suggestion. It can be downloaded here
+Prerequisites - run the backend available here - [Back-end](https://github.com/thiagogualberto/nodejs-concepts). 
 
-To run the frontend access this link [Front-end](https://github.com/thiagogualberto/reactjs-concepts)
+[Android Emulator](https://developer.android.com/) was used for testing. It is a suggestion. It can be downloaded here.
+
+To run the frontend access this link [Front-end](https://github.com/thiagogualberto/reactjs-concepts).
 
 
 # :clipboard: Features
